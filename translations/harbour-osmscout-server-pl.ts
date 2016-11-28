@@ -82,42 +82,42 @@
     <message>
         <location filename="../src/dbmaster_route.cpp" line="79"/>
         <source>Database is not open, cannot route</source>
-        <translation type="unfinished"></translation>
+        <translation type="Baza danych nie jest otwarta, nie można wyznaczyć trasy"></translation>
     </message>
     <message>
         <location filename="../src/dbmaster_route.cpp" line="99"/>
         <source>Cannot open routing database</source>
-        <translation type="unfinished"></translation>
+        <translation type="Nie można otworzyć bazy danych trasowania"></translation>
     </message>
     <message>
         <location filename="../src/dbmaster_route.cpp" line="136"/>
         <source>There was an error while calculating the route!</source>
-        <translation type="unfinished"></translation>
+        <translation type="Wystąpił błąd podczas obliczania trasy!"></translation>
     </message>
     <message>
         <location filename="../src/dbmaster_route.cpp" line="143"/>
         <source>No Route found!</source>
-        <translation type="unfinished"></translation>
+        <translation type="Nie znaleziono trasy!"></translation>
     </message>
     <message>
         <location filename="../src/dbmaster_route.cpp" line="153"/>
         <source>Error during route conversion to points</source>
-        <translation type="unfinished"></translation>
+        <translation type="Wystąpił błąd podczas konwersji trasy do punktów"></translation>
     </message>
     <message>
         <location filename="../src/dbmaster_search.cpp" line="254"/>
         <source>Database is not open, cannot search</source>
-        <translation type="unfinished"></translation>
+        <translation type="Baza danych nie jest otwarta, nie można wyszukać"></translation>
     </message>
     <message>
         <location filename="../src/dbmaster_search.cpp" line="272"/>
         <source>Error while parsing search string</source>
-        <translation type="unfinished"></translation>
+        <translation type="Wystąpił błąd podczas parsowania wyszukwanego stringu"></translation>
     </message>
     <message>
         <location filename="../src/dbmaster_search.cpp" line="279"/>
         <source>Error while searching for location</source>
-        <translation type="unfinished"></translation>
+        <translation type="Wystąpił błąd podczas wyszukiwania miejsca"></translation>
     </message>
     <message>
         <location filename="../src/dbmaster_search.cpp" line="486"/>

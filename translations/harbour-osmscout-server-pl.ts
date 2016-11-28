@@ -57,27 +57,27 @@
     <message>
         <location filename="../src/dbmaster.cpp" line="49"/>
         <source>Opened database</source>
-        <translation type="unfinished"></translation>
+        <translation type="Otworzona baza danych"></translation>
     </message>
     <message>
         <location filename="../src/dbmaster.cpp" line="115"/>
         <source>Cannot allocate Style config</source>
-        <translation type="unfinished"></translation>
+        <translation type="Nie mozna przydzielić configuracji Stylu"></translation>
     </message>
     <message>
         <location filename="../src/dbmaster.cpp" line="123"/>
         <source>Cannot open style</source>
-        <translation type="unfinished"></translation>
+        <translation type="Nie można otworzyć stylu"></translation>
     </message>
     <message>
         <location filename="../src/dbmaster.cpp" line="129"/>
         <source>Loaded style</source>
-        <translation type="unfinished"></translation>
+        <translation type="Załadowany styl"></translation>
     </message>
     <message>
         <location filename="../src/dbmaster_map.cpp" line="72"/>
         <source>Database is not open, cannot render a tile</source>
-        <translation type="unfinished"></translation>
+        <translation type="Baza danych nie jest otwarta, nie można wyrenderować kafelka"></translation>
     </message>
     <message>
         <location filename="../src/dbmaster_route.cpp" line="79"/>
@@ -640,7 +640,7 @@
     <message>
         <location filename="../qml/pages/StartPage.qml" line="13"/>
         <source>About</source>
-        <translation type="unfinished"></translation>
+        <translation type="O"></translation>
     </message>
     <message>
         <location filename="../qml/pages/StartPage.qml" line="18"/>
@@ -650,37 +650,37 @@
     <message>
         <location filename="../qml/pages/StartPage.qml" line="23"/>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation type="Ustawienia"></translation>
     </message>
     <message>
         <location filename="../qml/pages/StartPage.qml" line="37"/>
         <source>OSM Scout Server</source>
-        <translation type="unfinished"></translation>
+        <translation type="Serwer OSM Scout"></translation>
     </message>
     <message>
         <location filename="../qml/pages/StartPage.qml" line="41"/>
         <source>Database</source>
-        <translation type="unfinished"></translation>
+        <translation type="Baza danych"></translation>
     </message>
     <message>
         <location filename="../qml/pages/StartPage.qml" line="69"/>
         <source>Status</source>
-        <translation type="unfinished"></translation>
+        <translation type="Status"></translation>
     </message>
     <message>
         <location filename="../qml/pages/StartPage.qml" line="83"/>
         <source>Jobs in a queue</source>
-        <translation type="unfinished"></translation>
+        <translation type="Zadania w kolejce"></translation>
     </message>
     <message>
         <location filename="../qml/pages/StartPage.qml" line="84"/>
         <source>Idle</source>
-        <translation type="unfinished"></translation>
+        <translation type="Bezczynność"></translation>
     </message>
     <message>
         <location filename="../qml/pages/StartPage.qml" line="98"/>
         <source>Events</source>
-        <translation type="unfinished"></translation>
+        <translation type="Wydarzenia"></translation>
     </message>
 </context>
 </TS>

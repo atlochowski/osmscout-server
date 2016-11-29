@@ -484,22 +484,22 @@
     <message>
         <location filename="../qml/pages/SettingsPage.qml" line="149"/>
         <source>Events log size</source>
-        <translation type="unfinished"></translation>
+        <translation type="Wielkość logów wydarzeń"></translation>
     </message>
     <message>
         <location filename="../qml/pages/SettingsPage.qml" line="150"/>
         <source>Number of events shown in the main page</source>
-        <translation type="unfinished"></translation>
+        <translation type="Liczba wydarzeń na głównej stronie"></translation>
     </message>
     <message>
         <location filename="../qml/pages/SettingsPage.qml" line="158"/>
         <source>Log messages into session log file</source>
-        <translation type="unfinished"></translation>
+        <translation type="Zapisuj treść logów do pliku logów sesji"></translation>
     </message>
     <message>
         <location filename="../qml/pages/SettingsPage.qml" line="159"/>
         <source>When enabled, the messages are logged into a session log file.The log file is at .cache/harbour-osmscout-server directory. Use this setting only for debugging purposes. With this setting enabled, info messages will be logged and shown on events irrespective to the settings above. This allows you to temporary enable full logging and disable it when the required session log file was produced.</source>
-        <translation type="unfinished"></translation>
+        <translation type="Kiedy włączone, wiadomości zapisywane są do pliku logów sesji. Plik ten znajduje się w folderze .cache/harbour-osmscout-server. Używaj tej opcji tylko w celu debuggowania. Z włączona ta opcją, wiadomości będą zapisywane i pokazywane w wydarzeniach niezaeżnie od powyższych ustawień. Pozwala ro na tymczasowe pełne zapisywanielogów i wyłączenie tego jesli wymagany plik logów sesji został utworzony."></translation>
     </message>
 </context>
 <context>
@@ -522,7 +522,7 @@
     <message>
         <location filename="../qml/pages/SpeedPage.qml" line="34"/>
         <source>This is a speed that is assumed to be never exceeded during calculations of the route</source>
-        <translation type="unfinished"></translation>
+        <translation type="Ta prędkość przypuszczalnie nie zostanie osiągnięta podczas obliczeń trasy"></translation>
     </message>
     <message>
         <location filename="../qml/pages/SpeedPage.qml" line="42"/>
@@ -572,12 +572,12 @@
     <message>
         <location filename="../qml/pages/SpeedPage.qml" line="111"/>
         <source>primary, km/h</source>
-        <translation type="unfinished"></translation>
+        <translation type="główna, km/h"></translation>
     </message>
     <message>
         <location filename="../qml/pages/SpeedPage.qml" line="119"/>
         <source>primary link, km/h</source>
-        <translation type="unfinished"></translation>
+        <translation type="główne połączenie, km/h"></translation>
     </message>
     <message>
         <location filename="../qml/pages/SpeedPage.qml" line="127"/>
@@ -645,7 +645,7 @@
     <message>
         <location filename="../qml/pages/StartPage.qml" line="18"/>
         <source>Routing speeds</source>
-        <translation type="unfinished"></translation>
+        <translation type="Szybkość trasy"></translation>
     </message>
     <message>
         <location filename="../qml/pages/StartPage.qml" line="23"/>

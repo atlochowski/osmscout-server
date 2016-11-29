@@ -122,22 +122,22 @@
     <message>
         <location filename="../src/dbmaster_search.cpp" line="486"/>
         <source>Search for reference point failed: cannot find</source>
-        <translation type="unfinished"></translation>
+        <translation type="Szukanie punktu odniesienie zakończone niepowodzeniem"></translation>
     </message>
     <message>
         <location filename="../src/dbmaster_search.cpp" line="507"/>
         <source>Database is not open, cannot search for POI</source>
-        <translation type="unfinished"></translation>
+        <translation type="Baza danych nie jest otwarta, nie można wyszukać POI"></translation>
     </message>
     <message>
         <location filename="../src/dbmaster_search.cpp" line="568"/>
         <source>Cannot load data from database</source>
-        <translation type="unfinished"></translation>
+        <translation type="Nie można załadować danych z bazy danych"></translation>
     </message>
     <message>
         <location filename="../src/dbmaster_search.cpp" line="668"/>
         <source>Database is not open, cannot list POI types</source>
-        <translation type="unfinished"></translation>
+        <translation type="Baza danych nie jest otwarta, nie można załadować listy typów POI"></translation>
     </message>
 </context>
 <context>
@@ -145,17 +145,17 @@
     <message>
         <location filename="../src/infohub.cpp" line="101"/>
         <source>ERROR: </source>
-        <translation type="unfinished"></translation>
+        <translation type="BŁĄD:"></translation>
     </message>
     <message>
         <location filename="../src/infohub.cpp" line="107"/>
         <source>WARNING: </source>
-        <translation type="unfinished"></translation>
+        <translation type="OSTRZEŻENIE:"></translation>
     </message>
     <message>
         <location filename="../src/infohub.cpp" line="116"/>
         <source>INFO: </source>
-        <translation type="unfinished"></translation>
+        <translation type="INFO:"></translation>
     </message>
 </context>
 <context>
@@ -163,82 +163,82 @@
     <message>
         <location filename="../src/routingforhuman.cpp" line="71"/>
         <source>Turn sharp left</source>
-        <translation type="unfinished"></translation>
+        <translation type="Skręć ostro w lewo"></translation>
     </message>
     <message>
         <location filename="../src/routingforhuman.cpp" line="73"/>
         <source>Turn left</source>
-        <translation type="unfinished"></translation>
+        <translation type="Skręć w lewo"></translation>
     </message>
     <message>
         <location filename="../src/routingforhuman.cpp" line="75"/>
         <source>Turn slightly left</source>
-        <translation type="unfinished"></translation>
+        <translation type="Skręć lekko w lewo"></translation>
     </message>
     <message>
         <location filename="../src/routingforhuman.cpp" line="77"/>
         <source>Straight on</source>
-        <translation type="unfinished"></translation>
+        <translation type="Prosto"></translation>
     </message>
     <message>
         <location filename="../src/routingforhuman.cpp" line="79"/>
         <source>Turn slightly right</source>
-        <translation type="unfinished"></translation>
+        <translation type="Skręć lekko w prawo"></translation>
     </message>
     <message>
         <location filename="../src/routingforhuman.cpp" line="81"/>
         <source>Turn right</source>
-        <translation type="unfinished"></translation>
+        <translation type="Skręć w prawo"></translation>
     </message>
     <message>
         <location filename="../src/routingforhuman.cpp" line="83"/>
         <source>Turn sharp right</source>
-        <translation type="unfinished"></translation>
+        <translation type="Skręć ostro w prawo"></translation>
     </message>
     <message>
         <location filename="../src/routingforhuman.cpp" line="98"/>
         <source>Drive along %along%</source>
-        <translation type="unfinished"></translation>
+        <translation type="Jedź wzdłuż %along%"></translation>
     </message>
     <message>
         <location filename="../src/routingforhuman.cpp" line="99"/>
         <source>Start at %start%. Drive along %along%</source>
-        <translation type="unfinished"></translation>
+        <translation type="Zacznij od %start%. Jedź wzdłuż %along%"></translation>
     </message>
     <message>
         <location filename="../src/routingforhuman.cpp" line="106"/>
         <source>Start at %start%</source>
-        <translation type="unfinished"></translation>
+        <translation type="Zacznij od %start%"></translation>
     </message>
     <message>
         <location filename="../src/routingforhuman.cpp" line="154"/>
         <source>At crossing (%crossingway%), %turncommand%</source>
-        <translation type="unfinished"></translation>
+        <translation type="Na skrzyżowaniu (%crossingway%), %turncommand%"></translation>
     </message>
     <message>
         <location filename="../src/routingforhuman.cpp" line="223"/>
         <source>Enter motorway %motorway%</source>
-        <translation type="unfinished"></translation>
+        <translation type="Wjedź na autostradę %motorway%"></translation>
     </message>
     <message>
         <location filename="../src/routingforhuman.cpp" line="227"/>
         <source>At crossing %crossing%, enter motorway %motorway%</source>
-        <translation type="unfinished"></translation>
+        <translation type="Na skrzyżowaniu %crossing%, wjedź na autostradę %motorway%"></translation>
     </message>
     <message>
         <location filename="../src/routingforhuman.cpp" line="266"/>
         <source>Change motorway to %to%</source>
-        <translation type="unfinished"></translation>
+        <translation type="Zmień autostradę na %to%"></translation>
     </message>
     <message>
         <location filename="../src/routingforhuman.cpp" line="269"/>
         <source>Change motorway from %from%</source>
-        <translation type="unfinished"></translation>
+        <translation type="Zmień autostradę z %from%"></translation>
     </message>
     <message>
         <location filename="../src/routingforhuman.cpp" line="272"/>
         <source>Change motorway from %from% to %to%</source>
-        <translation type="unfinished"></translation>
+        <translation type="Zmień autostradę z %from% do %to%"></translation>
     </message>
     <message>
         <location filename="../src/routingforhuman.cpp" line="277"/>
@@ -255,18 +255,18 @@
     <message>
         <location filename="../src/routingforhuman.cpp" line="335"/>
         <source>Leave motorway into %into%</source>
-        <translation type="unfinished"></translation>
+        <translation type="Opuść autostradę na %into%"></translation>
     </message>
     <message>
         <location filename="../src/routingforhuman.cpp" line="338"/>
         <source>Leave motorway. %move%</source>
-        <translation type="unfinished"></translation>
+        <translation type="Opuść autostradę. %move%"></translation>
     </message>
     <message>
         <location filename="../src/routingforhuman.cpp" line="341"/>
         <location filename="../src/routingforhuman.cpp" line="348"/>
         <source>Leave motorway %from%</source>
-        <translation type="unfinished"></translation>
+        <translation type="Opuść autostradę %from%"></translation>
     </message>
     <message>
         <location filename="../src/routingforhuman.cpp" line="344"/>

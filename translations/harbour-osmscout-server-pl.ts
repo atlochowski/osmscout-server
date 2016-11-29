@@ -423,8 +423,8 @@
     </message>
     <message>
         <location filename="../qml/pages/SettingsPage.qml" line="84"/>
-        <source>Czynnik kosztów</source>
-        <translation type="unfinished"></translation>
+        <source>Cost factor</source>
+        <translation type="Czynnik kosztów"></translation>
     </message>
     <message>
         <location filename="../qml/pages/SettingsPage.qml" line="85"/>

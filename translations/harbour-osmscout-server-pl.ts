@@ -244,13 +244,13 @@
         <location filename="../src/routingforhuman.cpp" line="277"/>
         <location filename="../src/routingforhuman.cpp" line="363"/>
         <source>At %motoName% (exit %motoRef%), %command%</source>
-        <translation type="unfinished"></translation>
+        <translation type="NA %motoName% (zjazd %motoRef%), %command%"></translation>
     </message>
     <message>
         <location filename="../src/routingforhuman.cpp" line="283"/>
         <location filename="../src/routingforhuman.cpp" line="369"/>
         <source>At %motoName%, %command%</source>
-        <translation type="unfinished"></translation>
+        <translation type="Na %motoName%, %command%"></translation>
     </message>
     <message>
         <location filename="../src/routingforhuman.cpp" line="335"/>
@@ -271,87 +271,87 @@
     <message>
         <location filename="../src/routingforhuman.cpp" line="344"/>
         <source>Leave motorway. %move% into %into%</source>
-        <translation type="unfinished"></translation>
+        <translation type="Opuść autostradę. %move% na %into%"></translation>
     </message>
     <message>
         <location filename="../src/routingforhuman.cpp" line="352"/>
         <source>Leave motorway %from%. %move%</source>
-        <translation type="unfinished"></translation>
+        <translation type="Opuść utostradę z %from%. %move%"></translation>
     </message>
     <message>
         <location filename="../src/routingforhuman.cpp" line="356"/>
         <source>Leave motorway %from%. %move% into %into%</source>
-        <translation type="unfinished"></translation>
+        <translation type="Opuść autostradę z %from%. %move% na %into%"></translation>
     </message>
     <message>
         <location filename="../src/routingforhuman.cpp" line="384"/>
         <source>Way changes name from %from% to %to%</source>
-        <translation type="unfinished"></translation>
+        <translation type="Droga zmienia nazwę z %from% na %to%"></translation>
     </message>
     <message>
         <location filename="../src/routingforhuman.cpp" line="388"/>
         <source>Way changes name to %to%</source>
-        <translation type="unfinished"></translation>
+        <translation type="Droga zmienia nazwę na %to%"></translation>
     </message>
     <message>
         <location filename="../src/routingforhuman.cpp" line="146"/>
         <source>Turn</source>
-        <translation type="unfinished"></translation>
+        <translation type="Skręć"></translation>
     </message>
     <message>
         <location filename="../src/routingforhuman.cpp" line="192"/>
         <source>Leave roundabout (%num% exit) into street %street%</source>
-        <translation type="unfinished"></translation>
+        <translation type="Opuść rondo (%num% zdjazd) na ulicę %street%"></translation>
     </message>
     <message>
         <location filename="../src/routingforhuman.cpp" line="196"/>
         <source>Leave roundabout (%num% exit)</source>
-        <translation type="unfinished"></translation>
+        <translation type="Opuść rondo (%num% zjazd"></translation>
     </message>
     <message>
         <location filename="../src/routingforhuman.cpp" line="167"/>
         <source>Enter roundabout</source>
-        <translation type="unfinished"></translation>
+        <translation type="Wjedź na rondo"></translation>
     </message>
     <message>
         <location filename="../src/routingforhuman.cpp" line="118"/>
         <source>Target reached: %target%</source>
-        <translation type="unfinished"></translation>
+        <translation type="Cel osiągnięty: %target%"></translation>
     </message>
     <message>
         <location filename="../src/routingforhuman.cpp" line="149"/>
         <source>%turncommand% into %where%</source>
-        <translation type="unfinished"></translation>
+        <translation type="%turncommand% na %where%"></translation>
     </message>
     <message>
         <location filename="../src/routingforhuman.cpp" line="171"/>
         <source>At crossing %crossway%, enter roundabout</source>
-        <translation type="unfinished"></translation>
+        <translation type="Na skrzyżowaniu %crossway%, wjedź na rondo"></translation>
     </message>
     <message>
         <location filename="../src/routingforhuman.cpp" line="188"/>
         <source>Leave roundabout</source>
-        <translation type="unfinished"></translation>
+        <translation type="Opuść rondo"></translation>
     </message>
     <message>
         <location filename="../src/routingforhuman.cpp" line="188"/>
         <source>exit</source>
-        <translation type="unfinished"></translation>
+        <translation type="zjazd"></translation>
     </message>
     <message>
         <location filename="../src/routingforhuman.cpp" line="221"/>
         <source>Enter motorway</source>
-        <translation type="unfinished"></translation>
+        <translation type="Wjedź na autostradę"></translation>
     </message>
     <message>
         <location filename="../src/routingforhuman.cpp" line="264"/>
         <source>Change motorway</source>
-        <translation type="unfinished"></translation>
+        <translation type="Zmień autostradę"></translation>
     </message>
     <message>
         <location filename="../src/routingforhuman.cpp" line="333"/>
         <source>Leave motorway</source>
-        <translation type="unfinished"></translation>
+        <translation type="Opuść autostradę"></translation>
     </message>
 </context>
 <context>
@@ -359,71 +359,71 @@
     <message>
         <location filename="../qml/pages/SettingsPage.qml" line="22"/>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation type="Ustawienia"></translation>
     </message>
     <message>
         <location filename="../qml/pages/SettingsPage.qml" line="26"/>
         <source>Map and style</source>
-        <translation type="unfinished"></translation>
+        <translation type="Mapa i styl"></translation>
     </message>
     <message>
         <location filename="../qml/pages/SettingsPage.qml" line="33"/>
         <source>Folder containing Maps</source>
-        <translation type="unfinished"></translation>
+        <translation type="Folder zawierający mapy"></translation>
     </message>
     <message>
         <location filename="../qml/pages/SettingsPage.qml" line="34"/>
         <source>This folder should contain maps imported by libosmscout Import utility</source>
-        <translation type="unfinished"></translation>
+        <translation type="Ten folder powinien zawierać maoy zainmportowane za pomocą narzędzia libosmscout Import"></translation>
     </message>
     <message>
         <location filename="../qml/pages/SettingsPage.qml" line="40"/>
         <source>Style sheet</source>
-        <translation type="unfinished"></translation>
+        <translation type="Arkusz stylów"></translation>
     </message>
     <message>
         <location filename="../qml/pages/SettingsPage.qml" line="41"/>
         <source>Style sheet used to render the map tiles</source>
-        <translation type="unfinished"></translation>
+        <translation type="Arkusz stulu użyty do renderowania kafelków mapy"></translation>
     </message>
     <message>
         <location filename="../qml/pages/SettingsPage.qml" line="47"/>
         <source>Folder with icons</source>
-        <translation type="unfinished"></translation>
+        <translation type="Folder z ikonami"></translation>
     </message>
     <message>
         <location filename="../qml/pages/SettingsPage.qml" line="48"/>
         <source>Icons used to mark features on the map</source>
-        <translation type="unfinished"></translation>
+        <translation type="Ikony użyte do oznaczania funkcji na mapie"></translation>
     </message>
     <message>
         <location filename="../qml/pages/SettingsPage.qml" line="52"/>
         <source>Rendering</source>
-        <translation type="unfinished"></translation>
+        <translation type="Renderowanie"></translation>
     </message>
     <message>
         <location filename="../qml/pages/SettingsPage.qml" line="59"/>
         <source>Font size</source>
-        <translation type="unfinished"></translation>
+        <translation type="Wielkość czcionki"></translation>
     </message>
     <message>
         <location filename="../qml/pages/SettingsPage.qml" line="67"/>
         <source>Render sea</source>
-        <translation type="unfinished"></translation>
+        <translation type="Renderuj morze"></translation>
     </message>
     <message>
         <location filename="../qml/pages/SettingsPage.qml" line="73"/>
         <source>Draw background</source>
-        <translation type="unfinished"></translation>
+        <translation type="Rysuj tło"></translation>
     </message>
     <message>
         <location filename="../qml/pages/SettingsPage.qml" line="77"/>
         <source>Routing</source>
-        <translation type="unfinished"></translation>
+        <translation type="Ustalanie przebiegu trasy"></translation>
     </message>
     <message>
         <location filename="../qml/pages/SettingsPage.qml" line="84"/>
-        <source>Cost factor</source>
+        <source>Czynnik kosztów</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -469,12 +469,12 @@
     <message>
         <location filename="../qml/pages/SettingsPage.qml" line="134"/>
         <source>Miscellaneous</source>
-        <translation type="unfinished"></translation>
+        <translation type="Różne"></translation>
     </message>
     <message>
         <location filename="../qml/pages/SettingsPage.qml" line="141"/>
         <source>Log info messages</source>
-        <translation type="unfinished"></translation>
+        <translation type="Logi"></translation>
     </message>
     <message>
         <location filename="../qml/pages/SettingsPage.qml" line="142"/>
@@ -507,17 +507,17 @@
     <message>
         <location filename="../qml/pages/SpeedPage.qml" line="22"/>
         <source>Routing speeds</source>
-        <translation type="unfinished"></translation>
+        <translation type="Szybkość trasy"></translation>
     </message>
     <message>
         <location filename="../qml/pages/SpeedPage.qml" line="26"/>
         <source>Modes of transportation</source>
-        <translation type="unfinished"></translation>
+        <translation type="Rodzaje transportu"></translation>
     </message>
     <message>
         <location filename="../qml/pages/SpeedPage.qml" line="33"/>
         <source>Maximal car speed, km/h</source>
-        <translation type="unfinished"></translation>
+        <translation type="Maksymalna prędkość samochodu, km/h"></translation>
     </message>
     <message>
         <location filename="../qml/pages/SpeedPage.qml" line="34"/>
@@ -527,47 +527,47 @@
     <message>
         <location filename="../qml/pages/SpeedPage.qml" line="42"/>
         <source>Expected speed of a bicycle, km/h</source>
-        <translation type="unfinished"></translation>
+        <translation type="Przewidywana prędkość roweru, km/h"></translation>
     </message>
     <message>
         <location filename="../qml/pages/SpeedPage.qml" line="50"/>
         <source>Expected speed while walking, km/h</source>
-        <translation type="unfinished"></translation>
+        <translation type="Przewidywana prędkość pieszego, km/h"></translation>
     </message>
     <message>
         <location filename="../qml/pages/SpeedPage.qml" line="56"/>
         <source>Car speed on different roads</source>
-        <translation type="unfinished"></translation>
+        <translation type="Prędkość samochodu na różnych drogach"></translation>
     </message>
     <message>
         <location filename="../qml/pages/SpeedPage.qml" line="63"/>
         <source>living street, km/h</source>
-        <translation type="unfinished"></translation>
+        <translation type="opuszczanie ulicy, km/h"></translation>
     </message>
     <message>
         <location filename="../qml/pages/SpeedPage.qml" line="71"/>
         <source>motorway, km/h</source>
-        <translation type="unfinished"></translation>
+        <translation type="autostrada, km/h"></translation>
     </message>
     <message>
         <location filename="../qml/pages/SpeedPage.qml" line="79"/>
         <source>motorway junction, km/h</source>
-        <translation type="unfinished"></translation>
+        <translation type="węzeł autostrad, km/h"></translation>
     </message>
     <message>
         <location filename="../qml/pages/SpeedPage.qml" line="87"/>
         <source>motorway link, km/h</source>
-        <translation type="unfinished"></translation>
+        <translation type="połączenie autostrad, km/h"></translation>
     </message>
     <message>
         <location filename="../qml/pages/SpeedPage.qml" line="95"/>
         <source>motorway primary, km/h</source>
-        <translation type="unfinished"></translation>
+        <translation type="podstawowa autostrada, km/h"></translation>
     </message>
     <message>
         <location filename="../qml/pages/SpeedPage.qml" line="103"/>
         <source>motorway trunk, km/h</source>
-        <translation type="unfinished"></translation>
+        <translation type="główna autostrada, km/h"></translation>
     </message>
     <message>
         <location filename="../qml/pages/SpeedPage.qml" line="111"/>
@@ -587,12 +587,12 @@
     <message>
         <location filename="../qml/pages/SpeedPage.qml" line="135"/>
         <source>road, km/h</source>
-        <translation type="unfinished"></translation>
+        <translation type="droga, km/h"></translation>
     </message>
     <message>
         <location filename="../qml/pages/SpeedPage.qml" line="143"/>
         <source>roundabout, km/h</source>
-        <translation type="unfinished"></translation>
+        <translation type="rondo, km/h"></translation>
     </message>
     <message>
         <location filename="../qml/pages/SpeedPage.qml" line="151"/>
